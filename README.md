@@ -40,10 +40,11 @@
         include fastcgi_params;
     }
 
-    location /dbmslite {
+    location /mysqldbmanager {
         try_files $uri $uri/ /index.php;
     }
     ```
+    Note:Restart php-fpm and nginx after changes.
 
 3. Install PHP and set up `php-fpm` if not already done.
 
