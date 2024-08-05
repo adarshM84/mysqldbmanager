@@ -16,7 +16,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mysqldbeditor.git
+    git clone https://github.com/adarshM84/mysqldbmanager.git
     ```
 2. Move the cloned folder to `htdocs`:
     - Place the `mysqldbeditor` folder inside the `htdocs` directory of your XAMPP installation.
@@ -25,7 +25,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mysqldbeditor.git
+    git clone https://github.com/adarshM84/mysqldbmanager.git
     ```
 2. Make the following changes to your `nginx` configuration file:
 
